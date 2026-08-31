@@ -142,7 +142,7 @@ Git • GitHub • Vite • Netlify
     Telegram
   </a>
   &nbsp;•&nbsp;
-  <a href="mailto:tuychiyevamanzura80@gmail.com">
+<button>  <a href="mailto:tuychiyevamanzura80@gmail.com">
     Email
-  </a>
+  </a></button> 
 </p>
