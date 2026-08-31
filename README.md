@@ -33,7 +33,6 @@
 ## 🛠 Tech Stack
 <h3 align="center">Frontend</h3>
 <p align="center">
-
 HTML • CSS • JavaScript • React • Tailwind CSS
 </p> 
 <h3 align="center">Backend</h3>
