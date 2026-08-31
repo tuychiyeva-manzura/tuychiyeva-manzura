@@ -31,10 +31,19 @@
   build impactful products, and eventually create my own startup.
 </p>
 ## 🛠 Tech Stack
-<h1 align="center">Frontend</h1>
+<h3 align="center">Frontend</h3>
 <p align="center">
+
 HTML • CSS • JavaScript • React • Tailwind CSS
-</p>
+</p> 
+<h3 align="center">Backend</h3>
+<p align="center">
+PHP • Laravel • MySQL
+</p> 
+<h3 align="center">Tools</h3>
+<p align="center">
+Git • GitHub • Vite • Netlify
+</p> 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuychiyeva-manzura&show_icons=true&theme=transparent&hide_border=true" />
