@@ -72,7 +72,7 @@
     🔗 View Project
   </a>
 </p>
-<h3>🍽 Laravel Restaurant Menu</h3>
+<h3>🍽 Restaurant-website</h3>
 
 <p>
   A responsive restaurant menu application built with Laravel,
@@ -83,7 +83,7 @@
   <strong>Tech:</strong> PHP · Laravel · MySQL · Tailwind CSS
 </p>
 <p>
-  <a href="https://github.com/tuychiyeva-manzura/laravel-restaurant-menu">
+  <a href="https://github.com/tuychiyeva-manzura/restaurant-website">
     🔗 View Project
   </a>
 </p>
