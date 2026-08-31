@@ -31,9 +31,9 @@
   build impactful products, and eventually create my own startup.
 </p>
 ## 🛠 Tech Stack
-
+<h1 align="center">Frontend</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,tailwind,js,react,git,github,vscode" />
+HTML • CSS • JavaScript • React • Tailwind CSS
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
