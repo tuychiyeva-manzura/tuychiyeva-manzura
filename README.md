@@ -2,9 +2,7 @@
 
 <h3 align="center">
   AI Student • Laravel Developer</h3>  
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+products;Learning+every+day;Laravel+%7C+PHP+%7C+React;Future+Startup+Founder" />
-</p>
+
 <h2 align="center">👩‍💻  About Me</h2>
 
 <p>
